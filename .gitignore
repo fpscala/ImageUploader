@@ -1,0 +1,26 @@
+# Project exclude paths
+/common/target/
+/common/target/scala-2.13/classes/
+/endpoints/00-domain/target/
+/endpoints/00-domain/target/scala-2.13/classes/
+/endpoints/02-core/target/
+/endpoints/02-core/target/scala-2.13/classes/
+/endpoints/03-api/target/
+/endpoints/03-api/target/scala-2.13/classes/
+/endpoints/04-server/target/
+/endpoints/04-server/target/scala-2.13/classes/
+/endpoints/05-runner/target/
+/endpoints/05-runner/target/scala-2.13/classes/
+/endpoints/target/
+/integrations/aws/s3/target/
+/integrations/aws/s3/target/scala-2.13/classes/
+/integrations/aws/target/
+/integrations/target/
+/project/project/target/
+/project/target/
+/supports/logback/target/
+/supports/logback/target/scala-2.13/classes/
+/supports/services/target/
+/supports/services/target/scala-2.13/classes/
+/supports/target/
+/target/
